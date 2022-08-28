@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalzz&count_private=true&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="khalzz" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalzz&show_icons=true&locale=en&layout=compact" alt="khalzz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalzz&langs_count=8&layout=compact&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="khalzz" /></p>
