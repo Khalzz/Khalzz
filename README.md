@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Seguel</h1>
 <h3 align="center">A 19 year old programmer in love with game development, web design and mainly all aspects of code where I can develop my design skills, constantly learning new things while trying to teach them to everyone who needs them..</h3>
 
-- 🌱 I’m currently learning **Rust, Flutter and TypeScript**
+- 🌱 I’m currently learning **Rust, NodeJs and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://khalzz.github.io/filthy-page/](https://khalzz.github.io/filthy-page/)
 
