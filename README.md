@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust, NodeJs & NextJs**
 
-- 👨‍💻 All of my projects are available at [https://khalzz.github.io/filthy-page/](https://khalzz.github.io/filthy-page/)
+- 👨‍💻 All of my projects are available at [https://rseguel.com/](https://rseguel.com)
 
 - 💬 Ask me about **Web Design & Game development**
 
